@@ -1,9 +1,9 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: enhancement
-assignees: ''
+name: Documentation request
+about: Request for more detailed docmentation or docmentation corrections
+title: "[文档补充]"
+labels: documentation, enhancement
+assignees: qizhiqiu
 
 ---
 
