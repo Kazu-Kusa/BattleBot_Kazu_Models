@@ -7,11 +7,11 @@ assignees: qizhiqiu
 
 ---
 
-## Is your feature request related to a problem? Please describe.
+## 已有问题的描述
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
-## Describe the solution you'd like
+## 我的想要的解决方法
 A clear and concise description of what you want to happen.
 
-## Additional context
+## 补充说明
 Add any other context or screenshots about the feature request here.

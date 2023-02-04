@@ -7,14 +7,11 @@ assignees: ''
 
 ---
 
-## Describe the bug
+## BUG描述
 A clear and concise description of what the bug is.
 
-## Expected behavior
+## 期望的行为
 A clear and concise description of what you expected to happen.
 
-## Screenshots
+## 补充说明
 If applicable, add screenshots to help explain your problem.
-
-## Additional context
-Add any other context about the problem here.
